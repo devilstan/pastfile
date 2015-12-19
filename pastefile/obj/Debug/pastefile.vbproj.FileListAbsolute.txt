@@ -1,0 +1,10 @@
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\bin\Debug\pastefile.exe.config
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\bin\Debug\pastefile.exe
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\bin\Debug\pastefile.pdb
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\bin\Debug\pastefile.xml
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.vbprojResolveAssemblyReference.cache
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.Resources.resources
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.vbproj.GenerateResource.Cache
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.exe
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.xml
+c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.pdb
