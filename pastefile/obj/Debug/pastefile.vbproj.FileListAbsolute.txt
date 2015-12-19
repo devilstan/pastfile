@@ -8,3 +8,4 @@ c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj
 c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.exe
 c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.xml
 c:\users\devilstan\documents\visual studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.pdb
+C:\Users\devilstan\Documents\Visual Studio 2015\Projects\pastefile\pastefile\obj\Debug\pastefile.Form1.resources
